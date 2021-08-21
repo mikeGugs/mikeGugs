@@ -6,6 +6,7 @@ from pypfopt import EfficientFrontier, risk_models, expected_returns, plotting
 from pypfopt.discrete_allocation import DiscreteAllocation, get_latest_prices
 from datetime import date, timedelta
 
+# You will need a Tiingo API key, which you can get for free on their website. Insert your API key below in between the quotes where it says 'INSERT-API-KEY-HERE'
 client = TiingoClient({'api_key':'INSERT-API-KEY-HERE'})
 
 # Create an empty list to be populated by user input
