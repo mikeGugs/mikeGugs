@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikeGugs
 - 👀 I’m interested in Finance, and how to apply technology in the field.
-- 🌱 I’m currently learning beginner level Python.
+- 🌱 I’m currently learning beginner level programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me linkedin, Mike Guglielmo.
 
