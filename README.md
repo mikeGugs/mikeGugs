@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @mikeGugs
-- 👀 I’m interested in Finance, and how to apply technology in the field.
-- 🌱 I’m currently learning beginner level programming.
-- 💞️ I’m looking to collaborate on ...
+- I'm a Finance professional and a CFA level 3 candidate. I currently work in a trading role at a hedge fund. Teaching myself some computer programming!
 - 📫 How to reach me linkedin, Mike Guglielmo.
 
 <!---
