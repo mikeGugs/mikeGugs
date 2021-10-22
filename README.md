@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mikeGugs
+- 👋 Hi, I’m Mike Guglielmo.
 - I'm a Finance professional and a CFA level 3 candidate. I currently work in a trading role at a hedge fund. Teaching myself some computer programming!
 - 📫 How to reach me linkedin, Mike Guglielmo.
 
