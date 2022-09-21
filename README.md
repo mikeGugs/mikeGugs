@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mike Guglielmo.
-- I'm interested in finance, trading, and economics, among other things. Teaching myself some computer programming!
+- I'm interested in finance, trading, programming and computers among other things.
 - 📫 How to reach me linkedin, Mike Guglielmo.
 
 <!---
